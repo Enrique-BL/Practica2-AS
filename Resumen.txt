@@ -1,0 +1,1 @@
+La practica consiste en el manejo de imagenes y cajas de texto.
